@@ -14,7 +14,9 @@ createServer({
       transactions: [
         { id: 1, title: 'freelancer', type: 'deposit', category: 'Dev', amount: 6000, createAt: new Date('2024-01-05 09:00:00')},
         { id: 2, title: 'freelancer', type: 'deposit', category: 'Dev', amount: 2000, createAt: new Date('2024-01-09 15:00:00')},
-        { id: 3, title: 'contas diversas', type: 'withdraw', category: 'Dev', amount: 2000, createAt: new Date('2024-01-15 15:00:00')}
+        { id: 4, title: 'contas diversas', type: 'withdraw', category: 'Dev', amount: 2000, createAt: new Date('2024-01-15 15:00:00')},
+        { id: 5, title: 'contas diversas', type: 'withdraw', category: 'Dev', amount: 2000, createAt: new Date('2024-01-15 15:00:00')},
+        { id: 6, title: 'contas diversas', type: 'withdraw', category: 'Dev', amount: 2000, createAt: new Date('2024-01-15 15:00:00')}
       ]
     })
   },
